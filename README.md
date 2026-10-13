@@ -49,7 +49,9 @@ A sports platform for Lebanon. Players find and book padel, football, basketball
 ### 🧰 Tech I use
 
 **AI / ML:** Python · PyTorch · scikit-learn · YOLOv8 · OpenCV · MediaPipe · Streamlit
+
 **Apps & backend:** Flutter / Dart · Node.js · FastAPI · React · Supabase · PostgreSQL · Firebase
+
 **Robotics & tools:** ROS 2 · Gazebo · Git & GitHub Actions · MATLAB
 
 ---
